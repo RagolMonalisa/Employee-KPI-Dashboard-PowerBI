@@ -32,3 +32,9 @@ It includes slicers for filtering by **month**, **department**, and **employee**
 ## 🔗 About
 This project is part of a personal analytics portfolio focused on building real-world dashboards for performance monitoring.
 
+## 📊 Dashboard Preview
+
+This Power BI dashboard provides insights into employee performance and KPIs across departments and regions.
+
+![Employee KPI Dashboard](visuals/Employee_KPI_Data.png)
+
