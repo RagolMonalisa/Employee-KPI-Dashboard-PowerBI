@@ -38,3 +38,15 @@ This Power BI dashboard provides insights into employee performance and KPIs acr
 
 ![Employee KPI Dashboard](visuals/Employee_KPI_Data.png)
 
+employee-kpi-dashboard/
+│
+├── 📁 data/
+│   └── Employee_Data.xlsx                ← Raw or cleaned Excel data
+│
+├── 📁 visuals/
+│   └── Employee_KPI_Data.png             ← Dashboard screenshot
+│
+├── Employee_KPI_Dashboard.pbix          ← Your Power BI report file
+├── README.md                            ← Project overview, description, tools, and preview
+
+
